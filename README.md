@@ -29,7 +29,7 @@ Os mais comuns são: BMP, GIF, JPEG, EXIF, PNG e TIFF. Neste casos, o único que
 ![imagem](https://user-images.githubusercontent.com/75439043/150698081-6c7dbb1a-88a9-47ff-9e27-c240d22bc8c0.png)
 <h2>
   
-<h1> Sem perdas<h1>
+<h1> Compressão com perdas e sem perdas de dados <h1>
 <h2> Sem perdas<h1>
 <h3>
   Compressão sem perdas, quando a compressão, seguida pela descompressão, preserva integralmente os dados da imagem. Tipos de compressão sem perda de dados: GIF, PNG, JPEG 2000, TIFF.
