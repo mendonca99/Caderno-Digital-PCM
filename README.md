@@ -64,5 +64,5 @@ Trabalho realizado em aula: https://github.com/mendonca99/Caderno-Digital-PCM/tr
 
 <h1> cartaz a promover uma feira de emprego
 <h3>Foram elaboradas três variações do cartaz.Não protosta complemente diferencia entre as três propostas inteiramente distintas, mas sim variações a nível do tratamento de imagem ou da tipografia
- https://github.com/mendonca99/Caderno-Digital-PCM/tree/main/LONTRAS 
+https://github.com/mendonca99/Caderno-Digital-PCM/blob/main/PCM%20EMPREGO.rar
  
