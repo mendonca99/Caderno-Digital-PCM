@@ -1,5 +1,7 @@
 # Caderno-Digital-Produção de Conteúdos Multimédia 
 
+<h3>Multimédia (português europeu) ou multimídia (português brasileiro) é a combinação, controlada por computador (computador pessoal, periférico e dispositivo móvel), de pelo menos um tipo de média estática (texto, fotografia, gráfico), com pelo menos um tipo de média dinâmica (vídeo, áudio, animação).O termo multimédia refere-se portanto a tecnologias com suporte digital para criar, manipular, armazenar e pesquisar conteúdos.
+
 
 <h1>BitMaps
 
