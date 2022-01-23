@@ -73,9 +73,9 @@ https://github.com/mendonca99/Caderno-Digital-PCM/blob/main/PCM%20EMPREGO.rar
   
 <h2> Formatos de vídeo
 <h3> Em ordem de qualidade de imagem:
-<tr>
-    -Discos Profissionais: XDCAM, Blue Ray e HDVD;
-    -Fitas Profissionais: BETA DIGITAL, DVCPRO, BETACAM, DVCAM;
-    -Fitas Amadoras: MINIDV, SUPER VHS, Hi8, VHS, Hi8 Digital, Video 8;
-    -Discos Amadores: DVD e MiniDVD.
+  <tr>
+    -Discos Profissionais: XDCAM, Blue Ray e HDVD
+    -Fitas Profissionais: BETA DIGITAL, DVCPRO, BETACAM, DVCAM
+    -Fitas Amadoras: MINIDV, SUPER VHS, Hi8, VHS, Hi8 Digital, Video 8
+    -Discos Amadores: DVD e MiniDVD
   </tr>
