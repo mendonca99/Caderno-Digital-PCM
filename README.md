@@ -72,11 +72,11 @@ https://github.com/mendonca99/Caderno-Digital-PCM/blob/main/PCM%20EMPREGO.rar
 <h3>Vídeo, é uma tecnologia de processamento de sinais eletrônicos, analógicos ou digitais, para capturar, armazenar e transmitir ou apresentar uma sucessão de imagens com impressão de movimento. A aplicação principal da tecnologia de vídeo resultou na televisão, com todas as suas inúmeras utilizações, seja no entretenimento, na educação, engenharia, ciência, indústria, segurança, defesa, artes visuais.  
   
 <h2> Formatos de vídeo
-<h3> <tr>Em ordem de qualidade de imagem:
-    <p>Discos Profissionais: XDCAM, Blue Ray e HDVD</p>
+<h2> <tr>Em ordem de qualidade de imagem:
+<h3>  <p>Discos Profissionais: XDCAM, Blue Ray e HDVD</p>
     <p>Fitas Profissionais: BETA DIGITAL, DVCPRO, BETACAM, DVCAM</p>
-    -Fitas Amadoras: MINIDV, SUPER VHS, Hi8, VHS, Hi8 Digital, Video 8
-    -Discos Amadores: DVD e MiniDVD
+    <p>Fitas Amadoras: MINIDV, SUPER VHS, Hi8, VHS, Hi8 Digital, Video 8</p>
+    <p>Discos Amadores: DVD e MiniDVD</p>
   </tr>
 
   
