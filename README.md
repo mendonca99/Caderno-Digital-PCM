@@ -3,13 +3,13 @@
 
 <h1>BitMaps<h1>
 
-  <h2>
+<h3>
 Um bitmap refere-se a um tipo específico de armazenamento de dados – um mapa de bits.
 
 Um pixmap, por exemplo, é um mapa de pixels.
-
-Formatos mais comuns
-
+</h3>
+<h2>Formatos mais comuns<h2>
+<h3>
 As imagens bitmaps têm vários formatos por onde pode optar, sendo que cada um tem vantagens e desvantagens!
 
 Independentemente de trabalhar com design gráfico ou de ser um utilizador comum da internet, já usou pelo menos um dos vários formatos de imagem existentes.
@@ -27,7 +27,7 @@ Os mais comuns são: BMP, GIF, JPEG, EXIF, PNG e TIFF. Neste casos, o único que
 </tr>
 
 ![imagem](https://user-images.githubusercontent.com/75439043/150698081-6c7dbb1a-88a9-47ff-9e27-c240d22bc8c0.png)
-<h2>
+<h3>
   
 <h1> Compressão com perdas e sem perdas de dados <h1>
 <h2> Sem perdas<h1>
