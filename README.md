@@ -22,7 +22,6 @@ Os mais comuns são: BMP, GIF, JPEG, EXIF, PNG e TIFF. Neste casos, o único que
 
 -EXIF estão por norma associados a câmaras fotográficas
 
-
 -BMP são arquivos grandes e completos que não podem ser compactados 
 </tr>
 
