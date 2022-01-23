@@ -17,14 +17,12 @@ Os mais comuns são: BMP, GIF, JPEG, EXIF, PNG e TIFF. Neste casos, o único que
 
 <tr>
 Windows usa exclusivamente BMP
-</tr>
-<tr>
+
 GIF, PNG e JPEG são utilizados maioritariamente para transferências web uma vez que são simples de compactar</td>
-</tr>
-<tr>
+
 EXIF estão por norma associados a câmaras fotográficas
-</tr> 
-<tr>
+
+
 BMP são arquivos grandes e completos que não podem ser compactados 
 </tr>
 
