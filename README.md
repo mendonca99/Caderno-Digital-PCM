@@ -1,7 +1,7 @@
 # Caderno-Digital-Produção de Conteúdos Multimédia 
 
 
-BitMaps
+<h1>BitMaps<h1>
 
 Um bitmap refere-se a um tipo específico de armazenamento de dados – um mapa de bits.
 
