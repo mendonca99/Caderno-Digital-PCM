@@ -10,7 +10,7 @@ Um bitmap refere-se a um tipo específico de armazenamento de dados – um mapa 
 
 Um pixmap, por exemplo, é um mapa de pixels.
 
-<h2>Formatos mais comuns<h2>
+<h2>Formatos mais comuns
 <h3>
 As imagens bitmaps têm vários formatos por onde pode optar, sendo que cada um tem vantagens e desvantagens!
 
