@@ -16,14 +16,14 @@ Independentemente de trabalhar com design gráfico ou de ser um utilizador comum
 Os mais comuns são: BMP, GIF, JPEG, EXIF, PNG e TIFF. Neste casos, o único que não pode ser compactado e transferido online é o BMP.
 
 <tr>
-Windows usa exclusivamente BMP
+-Windows usa exclusivamente BMP
 
-GIF, PNG e JPEG são utilizados maioritariamente para transferências web uma vez que são simples de compactar</td>
+-GIF, PNG e JPEG são utilizados maioritariamente para transferências web uma vez que são simples de compactar</td>
 
-EXIF estão por norma associados a câmaras fotográficas
+-EXIF estão por norma associados a câmaras fotográficas
 
 
-BMP são arquivos grandes e completos que não podem ser compactados 
+-BMP são arquivos grandes e completos que não podem ser compactados 
 </tr>
 
 ![imagem](https://user-images.githubusercontent.com/75439043/150698081-6c7dbb1a-88a9-47ff-9e27-c240d22bc8c0.png)
