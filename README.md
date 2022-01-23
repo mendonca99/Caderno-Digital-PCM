@@ -1,8 +1,9 @@
 # Caderno-Digital-Produção de Conteúdos Multimédia 
 
 
-BitMaps
+<h1>BitMaps<h1>
 
+  <h2>
 Um bitmap refere-se a um tipo específico de armazenamento de dados – um mapa de bits.
 
 Um pixmap, por exemplo, é um mapa de pixels.
@@ -26,3 +27,6 @@ Os mais comuns são: BMP, GIF, JPEG, EXIF, PNG e TIFF. Neste casos, o único que
 </tr>
 
 ![imagem](https://user-images.githubusercontent.com/75439043/150698081-6c7dbb1a-88a9-47ff-9e27-c240d22bc8c0.png)
+<h2>
+  
+  <h1> Sem perdas<h1>
