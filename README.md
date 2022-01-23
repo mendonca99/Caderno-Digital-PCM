@@ -7,7 +7,7 @@
 Um bitmap refere-se a um tipo específico de armazenamento de dados – um mapa de bits.
 
 Um pixmap, por exemplo, é um mapa de pixels.
-</h3>
+
 <h2>Formatos mais comuns<h2>
 <h3>
 As imagens bitmaps têm vários formatos por onde pode optar, sendo que cada um tem vantagens e desvantagens!
@@ -30,20 +30,19 @@ Os mais comuns são: BMP, GIF, JPEG, EXIF, PNG e TIFF. Neste casos, o único que
 <h3>
   
 <h1> Compressão com perdas e sem perdas de dados 
-<h2> Sem perdas<h1>
+<h2> Sem perdas
 <h3>
   Compressão sem perdas, quando a compressão, seguida pela descompressão, preserva integralmente os dados da imagem. Tipos de compressão sem perda de dados: GIF, PNG, JPEG 2000, TIFF.
   
   ![imagem](https://user-images.githubusercontent.com/75439043/150698707-2f431c1c-1665-41b3-89e7-d5cd1b4ca76a.png)
 <h3>
   
-<h2> Com perdas<h2>
+<h2> Com perdas
 <h3>
   Compressão com perdas, quando a compressão, seguida pela descompressão, conduz à perda de alguma informação da imagem (que pode ou não ser aparente ao sistema visual humano). A imagem descomprimida terá uma qualidade inferior à imagem original. Tipos de compressão com perda de dados: BMP, JPEG, Fractal compression, Wavelet compression.
   
   ![imagem](https://user-images.githubusercontent.com/75439043/150698800-4ed36cd2-234a-4582-91dc-2c107d5d3275.png)
 
-<h3>  
-
-  
+<h1> Canais de cor
+<h3>  Você pode ajustar a cor e o tom da imagem alterando diretamente os canais de cor da imagem. O número de canais de cor em uma imagem depende do número de componentes no modo de cor associado a ela. Por exemplo, imagens em preto-e-branco, tons de cinza, tom duplo e cores da paleta têm apenas um canal de cor; imagens em RGB e Lab têm três canais e imagens em CMYK têm quatro canais de cor. Para obter mais informações sobre esses modelos de cor, consulte Entender modelos de cores. Canais adicionais podem ser usados para preservar quaisquer cores exatas em uma imagem. Para obter informações sobre canais de cores exatas
 
