@@ -63,6 +63,19 @@ Trabalho realizado em aula: https://github.com/mendonca99/Caderno-Digital-PCM/tr
 Trabalho realizado em aula: https://github.com/mendonca99/Caderno-Digital-PCM/tree/main/LONTRAS
 
 <h1> cartaz a promover uma feira de emprego
-<h3>Foram elaboradas três variações do cartaz.Não protosta complemente diferencia entre as três propostas inteiramente distintas, mas sim variações a nível do tratamento de imagem ou da tipografia
+<h3>Foram elaboradas três variações do cartaz. As três propostas inteiramente distintas,são sim variações a nível do tratamento de imagem ou da tipografia
 https://github.com/mendonca99/Caderno-Digital-PCM/blob/main/PCM%20EMPREGO.rar
  
+  
+  
+<h1>Video
+<h3>Vídeo, é uma tecnologia de processamento de sinais eletrônicos, analógicos ou digitais, para capturar, armazenar e transmitir ou apresentar uma sucessão de imagens com impressão de movimento. A aplicação principal da tecnologia de vídeo resultou na televisão, com todas as suas inúmeras utilizações, seja no entretenimento, na educação, engenharia, ciência, indústria, segurança, defesa, artes visuais.  
+  
+<h2> Formatos de vídeo
+<h3> Em ordem de qualidade de imagem:
+<tr>
+    -Discos Profissionais: XDCAM, Blue Ray e HDVD;
+    -Fitas Profissionais: BETA DIGITAL, DVCPRO, BETACAM, DVCAM;
+    -Fitas Amadoras: MINIDV, SUPER VHS, Hi8, VHS, Hi8 Digital, Video 8;
+    -Discos Amadores: DVD e MiniDVD.
+  </tr>
