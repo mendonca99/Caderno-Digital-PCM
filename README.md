@@ -50,3 +50,11 @@ Os mais comuns são: BMP, GIF, JPEG, EXIF, PNG e TIFF. Neste casos, o único que
 
 <h1>RGB
 <h3>RGB é a abreviatura de um sistema de cores aditivas em que o Vermelho (Red), o Verde (Green) e o Azul (Blue) são combinados de várias formas de modo a reproduzir um largo espectro cromático. O propósito principal do sistema RGB é a reprodução de cores em dispositivos eletrônicos como monitores de TV e computador, retroprojetores, scanners e câmeras digitais, assim como na fotografia tradicional.Modelos aditivos cromáticos são combinados de várias maneiras para reproduzir outras cores. O nome deste modelo e a abreviação RGB vêm das três cores primárias aditivas: vermelho, verde e azul (Red, Green, e Blue, em inglês), e só foi possível devido ao desenvolvimento tecnológico de tubos de raios catódicos – com os quais foi possível fazer o display de cores ao invés de uma fosforescência. 
+
+Uma cor no modelo de cores RGB pode ser descrita pela indicação da quantidade de vermelho, verde, e azul que contém. Cada uma pode variar entre o mínimo (completamente escuro) e máximo (completamente intenso). Quando todas as cores estão no mínimo, o resultado é preto. Se todas estão no máximo, o resultado é branco. Se todos os valores forem iguais ou muito próximos, a resultante é cinzento; à medida que um dos valores se afastar dos outros dois a cor resultante será um tom progressivamente mais “viva” e menos “pastel”.
+  
+![imagem](https://user-images.githubusercontent.com/75439043/150699619-4cdafa93-751f-4e45-9166-328e37c7653d.png)
+  
+<h1> Layers>
+  
+
