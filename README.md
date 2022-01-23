@@ -40,7 +40,7 @@ Os mais comuns são: BMP, GIF, JPEG, EXIF, PNG e TIFF. Neste casos, o único que
 <h2> Sem perdas<h2>
 <h3>
  Compressão com perdas, quando a compressão, seguida pela descompressão, conduz à perda de alguma informação da imagem (que pode ou não ser aparente ao sistema visual humano). A imagem descomprimida terá uma qualidade inferior à imagem original. Tipos de compressão com perda de dados: BMP, JPEG, Fractal compression, Wavelet compression.
-  ![imagem](https://user-images.githubusercontent.com/75439043/150698781-e83face2-97d9-4e04-a5d0-66ce78c58b43.png)
+  ![imagem](https://user-images.githubusercontent.com/75439043/150698800-4ed36cd2-234a-4582-91dc-2c107d5d3275.png)
 
 <h3>  
 
