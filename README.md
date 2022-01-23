@@ -73,11 +73,16 @@ https://github.com/mendonca99/Caderno-Digital-PCM/blob/main/PCM%20EMPREGO.rar
   
 <h2> Formatos de vídeo
 <h2> <tr>Em ordem de qualidade de imagem:
-<h3>  <p>Discos Profissionais: XDCAM, Blue Ray e HDVD</p>
-    <p>Fitas Profissionais: BETA DIGITAL, DVCPRO, BETACAM, DVCAM</p>
-    <p>Fitas Amadoras: MINIDV, SUPER VHS, Hi8, VHS, Hi8 Digital, Video 8</p>
-    <p>Discos Amadores: DVD e MiniDVD</p>
+<h3>  <p>-Discos Profissionais: XDCAM, Blue Ray e HDVD</p>
+    <p>-Fitas Profissionais: BETA DIGITAL, DVCPRO, BETACAM, DVCAM</p>
+    <p>-Fitas Amadoras: MINIDV, SUPER VHS, Hi8, VHS, Hi8 Digital, Video 8</p>
+    <p>-Discos Amadores: DVD e MiniDVD</p>
   </tr>
-
   
+<h1>Exercicio 2 - elaborar um vídeo sobre um local ou sobre uma actividade
+<h3>  No projeto final, decidi fazer um video sobre as minhas origens, em que iria conter alguns excertos em video sobre alguns dos locais mais populares dos Açores, priorizando em maioria a minha ilha (São Miguel) pois a maior parte do conteudo usado, se deve ao armazenamento guardado nos meus equipamentos(telemóvel e camera fotografica), além da ajuda de colegas de São Miguel que enviaram algum dos conteúdos guardados por eles. A nível do trabalho tentei incorporar varios fatores, desde a narrativa, efeitos de texto e imagem, os niveis de audio consoante equilibrados consoante o video, pois é possivel analisar que quando existe a voz a musica esta um pouco mais baixa do que quando existe a sequencia na parte das imagens. 
+  
+  
+
+
   
