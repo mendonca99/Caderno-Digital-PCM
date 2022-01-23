@@ -3,7 +3,7 @@
 
 <h1>BitMaps<h1>
 
-Um bitmap refere-se a um tipo específico de armazenamento de dados – um mapa de bits.
+<h2>Um bitmap refere-se a um tipo específico de armazenamento de dados – um mapa de bits.<h2>
 
 Um pixmap, por exemplo, é um mapa de pixels.
 
