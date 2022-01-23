@@ -57,7 +57,7 @@ Os mais comuns são: BMP, GIF, JPEG, EXIF, PNG e TIFF. Neste casos, o único que
   
 @pasys
   
-  
+https://github.com/mendonca99/Caderno-Digital-PCM/tree/main/lightroom%20cores  
 <h1> Layers
 <h3>Tutorial no GIMP: https://www.youtube.com/watch?v=P9NbpqW8m6Y&ab_channel=TJFREE
   
